@@ -31,6 +31,11 @@ const posts = [
         id: 6,
         descricao: "Comida deliciosa em um restaurante",
         imagem: "https://placehold.co/600x400"
+    },
+    {
+        id: 7,
+        descricao: "Comida ruim japonesa",
+        imagem: "https://placehold.co/600x400"
     }
 ];
 
