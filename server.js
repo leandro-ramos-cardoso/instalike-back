@@ -14,7 +14,7 @@ const posts = [
     },
     {
         id: 3,
-        descricao: "Gato fofo dormindo em uma caixa",
+        descricao: "Gato dormindo em uma caixa",
         imagem: "https://placehold.co/600x400"
     },
     {
@@ -30,6 +30,11 @@ const posts = [
     {
         id: 6,
         descricao: "Comida deliciosa em um restaurante",
+        imagem: "https://placehold.co/600x400"
+    },
+    {
+        id: 7,
+        descricao: "Comida ruim da esquina",
         imagem: "https://placehold.co/600x400"
     }
 ];
